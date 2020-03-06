@@ -103,7 +103,7 @@
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-react": "^7.19.0",
     "immutable": "^4.0.0-rc.12",
     "jest-cli": "^24.9.0",
     "jest-sonar-reporter": "^2.0.0",
